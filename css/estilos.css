@@ -1,0 +1,19 @@
+body { 
+        background-color: #EDECE9;
+        font-family: Verdana, Arial, sans-serif
+    }
+
+h1 {
+    color: #775548;
+}
+
+h3 {
+    color: #EF6D24;
+    text-decoration: underline;
+    white-space: nowrap;
+}
+
+h2 {
+    background-color: #775548;
+    color: #E1D4CF
+}
