@@ -1,16 +1,16 @@
 body { 
-        background-color: #EDECE9;
+        background-color:#EDECE9;
         font-family: Verdana, Arial, sans-serif
     }
 
-h1 {
+p {
     color: #775548;
+    display: inline-block;
+    margin-top: 0;
 }
 
-h3 {
-    text-:#EF6D24;
-    text-decoration: underline;
-    white-space: nowrap;
+h1 {
+    color: #775548;
 }
 
 h2 {
@@ -18,5 +18,47 @@ h2 {
     color: #E1D4CF
 }
 
-ul {color: #775548;   
+ul {
+    color: #775548
+}
+
+ol {
+    color: #775548;
+}
+
+li::marker {
+    color: #775548;
+}
+
+.p {
+    font-size: 2em ;
+    color: #EF6D24;
+    text-decoration: underline;
+}
+
+.palabras {
+            color: #EF6D24;
+            text-decoration: underline;
+}
+
+#info {
+    color: #775548;
+}
+
+#lanacion {
+    text-decoration: underline;
+    color: #3AABC5;
+}
+
+#pagina12 {
+    text-decoration: underline;
+    color: #EF4B51;
+}
+
+#redireccion {
+    color: #775548;
+}
+
+#subtitulo {
+    color: #CF9F40;
 }
